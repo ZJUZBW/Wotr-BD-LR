@@ -1,5 +1,9 @@
 # 正义之怒Wotr主角BD搜集
 
+## **友情链接** ---[正义之怒队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
+
+## **友情链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
+
 ## 前言
 
 **关于几个适合主角的完美级菜刀职业**:
