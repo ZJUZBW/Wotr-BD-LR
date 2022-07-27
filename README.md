@@ -286,11 +286,11 @@
 
 单体伤害
 
-![魔能射手伤害摆拍001](F:\游戏经验总结\正义之怒\魔能射手伤害摆拍001.jpg)
+![魔能射手伤害摆拍001](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%AD%94%E8%83%BD%E5%B0%84%E6%89%8B%E4%BC%A4%E5%AE%B3%E6%91%86%E6%8B%8D001.jpg)
 
 AOE伤害
 
-![魔能射手伤害摆拍002](F:\游戏经验总结\正义之怒\魔能射手伤害摆拍002.jpg)
+![魔能射手伤害摆拍002](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%AD%94%E8%83%BD%E5%B0%84%E6%89%8B%E4%BC%A4%E5%AE%B3%E6%91%86%E6%8B%8D002.jpg)
 
 **链接**：
 
