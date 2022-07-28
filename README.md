@@ -111,7 +111,7 @@
 
 **满级面板**：
 
-![诡计大师鳞拳剑圣面板](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E8%AF%A1%E8%AE%A1%E5%A4%A7%E5%B8%88%E9%B3%9E%E6%8B%B3%E5%89%91%E5%9C%A3%E9%9D%A2%E6%9D%BF.jpg)
+![诡计大师鳞拳剑圣面板1](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E8%AF%A1%E8%AE%A1%E5%A4%A7%E5%B8%88%E9%B3%9E%E6%8B%B3%E5%89%91%E5%9C%A3%E9%9D%A2%E6%9D%BF1.jpg)
 
 **推荐道途**：诡计大师；也可以搭配巫妖、天使、恶魔、御衡者
 
