@@ -209,7 +209,7 @@
 
   **附上一张摆拍图（没用上天命所归）**
 
-![image-20221014121225670](C:\Users\ZJUZB\AppData\Roaming\Typora\typora-user-images\image-20221014121225670.png)
+![image-20221014121225670](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/image-20221014121225670.png)
 
 **专长加点模板**：
 
@@ -412,17 +412,17 @@
 
 **武器伤害**
 
-![image-20221017144612517](C:\Users\ZJUZB\AppData\Roaming\Typora\typora-user-images\image-20221017144612517.png)
+![image-20221017144612517](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/image-20221017144612517.png)
 
 **单体射线伤害**（前者没给正义烙印+没触发诡诈烈焰，后者给了正义烙印+触发诡诈烈焰）
 
-![image-20221017142819627](C:\Users\ZJUZB\AppData\Roaming\Typora\typora-user-images\image-20221017142819627.png)
+![image-20221017142819627](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/image-20221017142819627.png)
 
-![image-20221017142926487](C:\Users\ZJUZB\AppData\Roaming\Typora\typora-user-images\image-20221017142926487.png)
+![image-20221017142926487](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/image-20221017142926487.png)
 
 **AOE伤害**（灵动闪电链，分裂射击AOE）
 
-![image-20221017142650131](C:\Users\ZJUZB\AppData\Roaming\Typora\typora-user-images\image-20221017142650131.png)
+![image-20221017142650131](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/image-20221017142650131.png)
 
 ![魔能射手伤害摆拍002](https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/%E9%AD%94%E8%83%BD%E5%B0%84%E6%89%8B%E4%BC%A4%E5%AE%B3%E6%91%86%E6%8B%8D002.jpg)
 
