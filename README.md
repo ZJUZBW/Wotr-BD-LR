@@ -18,6 +18,8 @@
 
 **GITHUB链接** ---[【新人向】属性、命中（AB）、防御（AC）和豁免的堆叠及法术对抗](https://github.com/ZJUZBW/Wotr-BUFF)
 
+**GITHUB链接** ---[【正义之怒不公平战报/攻略】【无佣兵无修改】魔能射手+全剧情队友](https://github.com/ZJUZBW/Wotr-WC)
+
 **百度贴吧**：[【正义之怒不公平战报】【无佣兵无修改】魔能射手+全剧情队友](https://tieba.baidu.com/p/7974312458)
 
 **哔哩哔哩**：[【正义之怒不公平视频录制】【无修改】恶魔法师](https://www.bilibili.com/video/BV1Bu411C7xR)（视频太麻烦了，目前就更新到第二章虫群女王之前，而且版本比较旧了，上面的文字战报思路和教学性更好，可以结合观看）
