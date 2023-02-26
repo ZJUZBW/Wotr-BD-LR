@@ -29,9 +29,10 @@
 **最近建了一个QQ频道，大家可以用QQ扫描左下方二维码进频道交流。QQ频道缝合了discord和百度贴吧的大部分功能，发贴的排版功能比贴吧好多了，还支持后期编辑，感觉是未来的游戏社区主要阵地。注：手机/PC的QQ需要升级到最新版本。**
 
 <center class="half">    
-  <img src="https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/QQ图片20230120081723.jpg" width="310"/>    
+  <img src="https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/QQ图片20230226105840.jpg" width="310"/>    
   <img src="https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/Screenshot 2022-12-15 022440.jpg" width="770"/> 
 </center>
+
 
 
 
