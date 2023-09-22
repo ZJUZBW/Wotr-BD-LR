@@ -1,39 +1,33 @@
 # 正义之怒Wotr主角BD搜集
 
-**制作者：aaathl  or 唯行**
+**制作者：aaathl**，持续更新中—— 有问题或补充可以在群里@我
 
 正义之怒&拥王者的交流群：一群487092507（目前只剩这个群了）、~~二群：972953691（**推荐**，二群聊游戏比较多）~~、~~2.5群：191268357~~、2.6群：570449412（新建的）、也可以加下面的“Owlcat游戏交流”频道（扫描二维码加入，主要讨论拥王者、正义之怒和未来要出的行商浪人）。
 
-持续更新中—— 有问题或补充可以在群里@我
-
-**GITHUB链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
-
-**GITHUB链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
-
-**GITHUB链接** ---[正义之怒队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
-
-**GITHUB链接** ---[拥王者&正义之怒全专长测评](https://github.com/ZJUZBW/Wotr-AofF)
-
-**GITHUB链接** ---[正义之怒施法者入门和进阶手册](https://github.com/ZJUZBW/Wotr-AofS)
-
-**GITHUB链接** ---[【新人向】属性、命中（AB）、防御（AC）和豁免的堆叠及法术对抗](https://github.com/ZJUZBW/Wotr-BUFF)
-
-**GITHUB链接** ---[【正义之怒不公平战报/攻略】【无佣兵无修改】魔能射手+全剧情队友](https://github.com/ZJUZBW/Wotr-WC)
-
-**百度贴吧**：[【正义之怒不公平战报】【无佣兵无修改】魔能射手+全剧情队友](https://tieba.baidu.com/p/7974312458)
-
-**哔哩哔哩**：[【正义之怒不公平视频录制】【无修改】恶魔法师](https://www.bilibili.com/video/BV1Bu411C7xR)（视频太麻烦了，目前就更新到第二章虫群女王之前，而且版本比较旧了，上面的文字战报思路和教学性更好，可以结合观看）
-
-**百度网盘**：https://pan.baidu.com/s/15jx_JzQDWn4_kcxlLRdegg 提取码：wotr，【注：不会实时更新】
-
-**正义之怒MOD介绍**：[【正义之怒】内容扩展型MOD收集计划](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN)【大部分好用的MOD都在这里】
+- **如果经常无法访问GITHUB网站的话，可以下载整个说明文档（右上角绿色图标，CODE---Download ZIP），下载后解压，用浏览器直接打开 README.md 这个文件即可**。【特别注意！！！】
+- **GITHUB链接**
+  - [**完全洗点+MOD内容扩展情况下的队友职业RP加点思路**（新！）](https://github.com/ZJUZBW/Wotr-BD_mod)
+  - [正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
+  - [正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
+  - [正义之怒原版队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
+  - [拥王者&正义之怒全专长测评](https://github.com/ZJUZBW/Wotr-AofF)
+  - [正义之怒施法者入门和进阶手册](https://github.com/ZJUZBW/Wotr-AofS)
+  - [【新人向】属性、命中（AB）、防御（AC）和豁免的堆叠及法术对抗](https://github.com/ZJUZBW/Wotr-BUFF)
+  - [【正义之怒不公平战报/攻略】【无佣兵无修改】魔能射手+全剧情队友](https://github.com/ZJUZBW/Wotr-WC)
+  - [【正义之怒】内容扩展型MOD收集计划](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN)【大部分好用的MOD都在这里】
+- **百度贴吧**
+  - [【正义之怒不公平战报】【无佣兵无修改】魔能射手+全剧情队友](https://tieba.baidu.com/p/7974312458)
+- **哔哩哔哩**
+  - [【正义之怒不公平视频录制】【无修改】恶魔法师](https://www.bilibili.com/video/BV1Bu411C7xR)（视频太麻烦了，目前就更新到第二章虫群女王之前，而且版本比较旧了，上面的文字战报思路和教学性更好，可以结合观看）
+- **百度网盘**：https://pan.baidu.com/s/15jx_JzQDWn4_kcxlLRdegg 提取码：wotr，【注：不会实时更新】
 
 **最近建了一个QQ频道，大家可以用QQ扫描左下方二维码进频道交流。QQ频道缝合了discord和百度贴吧的大部分功能，发贴的排版功能比贴吧好多了，还支持后期编辑，感觉是未来的游戏社区主要阵地。注：手机/PC的QQ需要升级到最新版本。**
 
 <center class="half">    
-  <img src="https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/qq_guild_qrcode1681178069731.jpg" width="310"/>    
+  <img src="images/频道二维码.jpg" width="330"/>    
   <img src="https://aaathl.oss-cn-hangzhou.aliyuncs.com/img/Screenshot 2022-12-15 022440.jpg" width="770"/> 
 </center>
+
 
 
 
