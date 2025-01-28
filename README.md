@@ -21,7 +21,7 @@ typora-copy-images-to: images
   - [【新人向】属性、命中（AB）、防御（AC）和豁免的堆叠及法术对抗](https://github.com/ZJUZBW/Wotr-BUFF)
   - [【正义之怒不公平战报/攻略】【无佣兵无修改】魔能射手+全剧情队友](https://github.com/ZJUZBW/Wotr-WC)
   - [【正义之怒】内容扩展型MOD收集计划](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN)【大部分好用的MOD都在这里】
-  - [**正义之怒：游戏更新后的机制修改讯息及BUG修复情况**](游戏机制修改讯息及BUG修复情况.md) 
+  - [**正义之怒：游戏更新后的机制修改讯息及BUG修复情况**](https://github.com/ZJUZBW/-Wotr-BD-/blob/main/%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6%E4%BF%AE%E6%94%B9%E8%AE%AF%E6%81%AF%E5%8F%8ABUG%E4%BF%AE%E5%A4%8D%E6%83%85%E5%86%B5.md) 
 - **百度贴吧**
   - [【正义之怒不公平战报】【无佣兵无修改】魔能射手+全剧情队友](https://tieba.baidu.com/p/7974312458)
 - **哔哩哔哩**
