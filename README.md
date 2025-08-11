@@ -5,7 +5,7 @@ typora-copy-images-to: images
 
 # 正义之怒Wotr主角BD搜集
 
-# 新版攻略（以后均在此更新）- [点击跳转](https://zjuzbw.github.io/#/Wotr/Wotr-BD-Tm8/Seelah)
+# 新版攻略（以后均在此更新）- [点击跳转](https://zjuzbw.github.io/#/Wotr/Wotr-BD-Ldr/)
 
 **制作者：aaathl**，持续更新中—— 有问题或补充可以在群里@我
 
